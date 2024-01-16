@@ -1,4 +1,4 @@
-  =>  Template Name    : John Doe - Personal CV Website Template
+  =>  Template Name    : Muhammed Hisham - Personal CV Website Template
 
   =>  Template Link    : https://htmlcodex.com/personal-cv-website-template
 
